@@ -1,0 +1,13 @@
+Tytuł: Wielki Bug
+
+Dawno dawno temu w... sali 213A, gdzie klimatyzacja działała tylko w grudniu, a projektory miały własną osobowość, grupa studentów informatyki walczyła z największym przeciwnikiem semestru — projektem z systemów rozproszonych.
+Była to grupa nie byle jaka, bo złożona z trzech śmiałków: Mateusza, który zawsze coś "commitował, ale nie pushował", Oli, mistrzyni kopiowania Stack Overflow, i Karola, który myślał, że rm -rf / to żart.
+Pewnego dnia, podczas kodowania na 10 minut przed deadlinem, wydarzył się cud — wszystko się zbuildowało za pierwszym razem.
+Zaniepokojeni, zaczęli szukać błędu, bo jak wiadomo, "jak coś działa od razu, to znaczy, że gdzieś jest ukryty bug".
+Po 5 godzinach debugowania, Mateusz przypadkiem odpiął laptopa od internetu i wszystko nagle przestało działać.
+Okazało się, że cały ich system rozproszony działał tylko, gdy Stack Overflow był online — ich algorytm replikacji danych polegał na live-searchowaniu odpowiedzi.
+Po prezentacji, prowadzący powiedział: "Nie wiem jak, ale jestem pod wrażeniem. Daję wam 5, ale nigdy więcej tego nie róbcie."
+Od tamtej pory, nad salą 213A krąży legenda o trzech studentach, co kodowali na modlitwie, i bugu, który bał się ujawnić.
+
+Autorzy: Marceli Drapacz
+
