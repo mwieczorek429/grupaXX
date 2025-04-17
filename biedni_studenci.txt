@@ -1,0 +1,9 @@
+Dawno, dawno temu, w małym akademickim miasteczku, grupka studentów informatyków - Zosia, Krzysiek i Marek - ledwo wiązała koniec z końcem. Ich sprzęt komputerowy był równie wiekowy co maszyny parowe, a codzienne życie składało się z szybkich obiadów z najtańszymi pierogami i niekończących się sesji kodowania w uczelnianej bibliotece, gdzie Wi-Fi ledwo zipało.
+
+Pewnego dnia ich profesor ogłosił konkurs na najlepszą aplikację wspierającą życie studenckie. Nagrodą było roczne stypendium i nowoczesny sprzęt komputerowy. Zosia, Krzysiek i Marek byli zdeterminowani. Wymyślili aplikację "Student-Live-Saver" - miała przypominać o zajęciach, zarządzać budżetem i wyszukiwać najtańsze jedzenie w okolicy. Brzmiało świetnie... na papierze.
+
+Problem zaczął się, gdy Marek, znany z zamiłowania do "eksperymentalnych skrótów", napisał fragment kodu, który miał zoptymalizować działanie aplikacji. Testując ją, zauważyli drobny błąd: zamiast wyszukiwać najtańsze jedzenie, aplikacja polecała pobliskie sklepy z karmą dla zwierząt. Krzysiek próbował to naprawić, ale program zaczął przypominać użytkownikom o zajęciach... o północy, wyświetlając komunikat: "Wstań i walcz, leniu!" Zosia desperacko próbowała ratować sytuację, lecz aplikacja zaczęła automatycznie wysyłać SMS-y z treścią: "Jesteś beznadziejny, ale damy radę!" do przypadkowych kontaktów w telefonach.
+
+W dniu prezentacji ich aplikacja wybuchła salwą dziwnych komunikatów na ekranach telefonów sędziów, w tym: "Ostatnia szansa, kup budżetową karmę!" Sala ryknęła śmiechem, a profesor, choć załamany, uznał projekt za "najzabawniejszą porażkę w historii uczelni". Nagroda była poza zasięgiem, ale ich aplikacja zyskała internetową sławę jako "koszmar studenckiego kodera".
+
+I chociaż nie wygrali konkursu, dostali ofertę stażu w firmie zajmującej się testowaniem oprogramowania... bo kto lepiej odkryje błędy niż oni?
